@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h2 align="left">👨‍💻 All of my projects are available at</h2>
+<h2 align="left"><h3>👨‍💻 All of my projects are available at</h2></h3>
   <p align="left">
   <a href="https://sivaram-r-10.github.io/Portfolio/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40" alt="Portfolio">
