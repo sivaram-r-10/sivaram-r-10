@@ -6,7 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sivaram-r-10.github.io/Portfolio/](https://sivaram-r-10.github.io/Portfolio/)
 
-- **💬 Ask me about **
+- 💬 Ask me about
+   
   🔭 B.E. Mechanical Engineering Student passionate about Robotics, Embedded Systems, IoT, AI, and Computer Vision.
   🤖 Building intelligent systems that combine mechanical design, electronics, and software engineering.
   🦾 Interested in Robotics Software Development, Robot Operating Systems (ROS), autonomous systems, and industrial automation.
